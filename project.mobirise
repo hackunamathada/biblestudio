@@ -44,7 +44,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/bible-studio-logo-128x128.png",
-    "mbrsiteDomain": "reopeescjj",
+    "mbrsiteDomain": "0fe423lukh",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -61,16 +61,11 @@
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "gdpr": {
-      "colorText": "#a7a7a7",
-      "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
     "publishChangesOnly": true,
     "uniqCompNum": 0,
     "versionPublish": "5.6.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "gdpr": false
   },
   "pages": {
     "index.html": {
